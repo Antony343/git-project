@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.box{
+	width:300px;
+	height: 400px;
+	background-color: #ffffef;
+	margin: 50% auto;
+	text-align: center;
+	border:solid 2px grey;
+	padding: 20px 30px;
+}
+
+
+.box p{
+	display: inline-block;
+	margin-top: 200px;
+}
+
+
+
+
+
+.first-par{
+	color:red;
+}
+.second-par{
+	color:green;
+}
+
+
+.first-par.second-par{
+	font-size: 24px;
+	color: black;
+}

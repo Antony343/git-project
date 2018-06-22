@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {height: 100%;}
+header
+{
+	height: 100px;
+	background-color: #ffffff;
+}
+
+main{
+	background-color: #cccccc;
+}
+
+img{
+	margin: 21px 0px 28px 80px;
+	border: 0px;
+}
+
+
+div.menu{
+	display: inline-block;
+	vertical-align: top;
+  margin: 46px 20px 0px 581px;
+
+}
+
+.menu a{
+	outline: none;
+	color:#999999;
+	margin: auto;
+	margin-right: 30px;
+	display: inline-block;
+	 text-decoration: none;
+	}
+
+p{
+	text-align: left;
+}
+
+.menu a:hover {
+	color:red;
+  text-decoration: underline;
+  outline: none;
+   }
